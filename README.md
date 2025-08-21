@@ -59,7 +59,3 @@ Para que os testes de performance funcionem corretamente, você deve ter este pr
 *   **Configurações Locais**: Para configurações específicas do ambiente local, consulte `config/config.local.json`.
 *   **Variáveis de Ambiente**: As variáveis utilizadas nos testes podem ser encontradas em `utils/variaveis.js`.
 *   **Funções de Autenticação**: Funções auxiliares para autenticação estão em `helpers/autenticacao.js`.
-
----
-
-**Nota**: Este `README.md` é um modelo. Você pode precisar ajustá-lo com base na ferramenta de teste exata (Playwright, Cypress, Jest, etc.) e em quaisquer outras especificidades do seu projeto.
